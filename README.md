@@ -14,7 +14,7 @@ Car prices dataset for Azerbaijan's Car Market. I use it for ML and fun.
 
 Each file has the following columns (almost):
     
-    car_name - files with car names does not have this column
+    car_name
     price
     year
     engine

@@ -1,3 +1,4 @@
+car_name,price,year,engine,mileage,valyuta,exchange_rate
 LADA (VAZ) 2107,6900,2012,1.6,10900,AZN,1.00
 LADA (VAZ) 2107,6100,2010,1.6,151365,AZN,1.00
 LADA (VAZ) 2107,6600,2010,1.6,150000,AZN,1.00

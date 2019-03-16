@@ -1,3 +1,4 @@
+car_name,price,year,engine,mileage,valyuta,exchange_rate
 LADA (VAZ) Niva,8000,2012,1.7,97500,AZN,1.00
 LADA (VAZ) Niva,12200,2015,1.7,54000,AZN,1.00
 LADA (VAZ) Niva,8600,2012,1.7,96000,AZN,1.00
